@@ -3,3 +3,6 @@ newfile
 2nd line is added 
 
 This is 3rs line 
+
+4th line
+]
